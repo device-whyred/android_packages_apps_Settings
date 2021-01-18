@@ -24,8 +24,7 @@
 
 <PreferenceScreen
     android:layout="@layout/crvs_logo_layout"
-    android:key="crvs_logo"
-    android:selectable="false"/>
+    android:key="crvs_logo" />
 
     <!--Android version-->
     <Preference
